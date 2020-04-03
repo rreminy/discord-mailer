@@ -1,5 +1,5 @@
 # discord-mailer
-A quick discord mailer bot project
+A quick discord mailer bot
 
 ## Installation instructions
 1. Clone this repository
