@@ -25,6 +25,9 @@ async function main() {
     } catch (e) {
       console.error("UNABLE TO SET DESTINATION CHANNEL!", e);
     }
+
+    // Set activity
+    await client.user.setActivity('DM to contact Mods');
   });
 
   client.on('message', async (msg) => {
