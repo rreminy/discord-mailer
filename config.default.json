@@ -1,0 +1,7 @@
+{
+  "discord": {
+    "token": "Your bot token goes here"
+  },
+  "destChannel": "123456789012345678",
+  "feedbackTime": 180
+}
