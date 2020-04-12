@@ -4,5 +4,5 @@
   },
   "destChannel": "123456789012345678",
   "feedbackTime": 180,
-  "successMessage": "Message delivered successfully, a member of the moderator team will be taking a look at it shortly"
+  "successMessage": "Message delivered successfully, a member of the moderator team will take a look and get back to you shortly"
 }
