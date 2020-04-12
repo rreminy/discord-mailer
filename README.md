@@ -1,5 +1,5 @@
 # discord-mailer
-A quick discord mailer bot
+A quick discord mailer bot that relay DMs sent to it into a specific channel. To reply just send DMs directly to the user (this bot is one-way)
 
 ## Installation instructions
 1. Clone this repository
