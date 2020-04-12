@@ -90,7 +90,7 @@ async function sentFeedback(id) {
   try {
     // Fetch the dm channel to send the feedback into
     let user = await client.users.fetch(id);
-    await user.send(`Message delivered successfully, a member of the moderator team will be taking a look at it shortly`);
+    await user.send(config.successMessage);
   } catch (e) {
     console.error(`Delivered feedback couldn't be sent`, e);
   }
